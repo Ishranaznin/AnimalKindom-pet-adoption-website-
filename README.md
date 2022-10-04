@@ -1,2 +1,3 @@
-# AnimalKindom
+# AnimalSquad
+
 A pet adoption website...
